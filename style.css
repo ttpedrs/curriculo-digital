@@ -360,7 +360,7 @@ body{
 }
 
 .imagem-quemsou {
-  width: 369px;
+  width: 469px;
   height: 369px;
   left: 719px;
   top: 6px;
@@ -815,7 +815,6 @@ footer {
   .conteudo-projetos {
     padding-bottom: 200px;
   }
-
  
 
   .div-projetos {
@@ -920,3 +919,8 @@ footer {
 
   transform: rotate(45deg) translate(-5px, -7px);
 }
+
+/* time line*/
+
+
+

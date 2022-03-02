@@ -1,0 +1,89 @@
+
+.my-timeline{
+	position: relative;
+
+}
+
+.timeline {
+	
+	width: 80%;
+	margin-left: 10%;
+	margin-bottom: 40px;
+}
+
+.timeline:before {
+    /*
+	content: "";
+	position: absolute;
+	top: 40px;
+	left: 65px;
+	width: 3px;
+	height: calc(100%);
+	background: #4b4b4b;*/
+}
+
+.timeline .column {
+	margin: 40px 40px 40px 120px;
+}
+
+.timeline .column .title h1 {
+	font-size: 120px;
+	color: rgba(0,0,0,0.1);
+	font-family: serif;
+	letter-spacing: 3px;
+
+}
+
+.timeline .column .title h1:before {
+    /*
+	content: "";
+	position: absolute;
+	left: 59px;
+	top: 86px;
+	width: 10px;
+	height: 10px;
+	background: rgb(3, 195, 209);
+	border: 3px solid #464444;*/
+}
+
+.timeline .column .title h2 {
+	margin-top: -60px;
+	font-size: 33px;
+    color: #4b4b4b;
+}
+
+.timeline .column .title h5 {
+
+    color: #004c63;
+}
+
+.timeline .column .description p {
+	font-size: 13px;
+	line-height: 20px;
+	margin-left: 20px;
+	margin-top: 10px;
+	
+}
+
+.timeline .column .description {
+	border-left: 1px solid rgb(0, 204, 231);
+}
+
+.main {
+	width: 80%;
+	margin-left: 10%;
+	margin-top: 80px;
+}
+
+.main h1 {
+	font-size: 80px;
+	line-height: 60px;
+    color: #464444;
+}
+
+.main p {
+	font-size: 13px;
+	line-height: 20px;
+	text-align: right;
+    color: rgb(156, 2, 2);
+}
