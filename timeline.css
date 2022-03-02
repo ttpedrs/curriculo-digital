@@ -7,7 +7,7 @@
 .timeline {
 	
 	width: 80%;
-	margin-left: 10%;
+	margin-left: 0%;
 	margin-bottom: 40px;
 }
 
@@ -23,7 +23,7 @@
 }
 
 .timeline .column {
-	margin: 40px 40px 40px 120px;
+	margin: 40px 40px 40px 90px;
 }
 
 .timeline .column .title h1 {
@@ -72,11 +72,11 @@
 .main {
 	width: 80%;
 	margin-left: 10%;
-	margin-top: 80px;
+	margin-top: 0px;
 }
 
 .main h1 {
-	font-size: 80px;
+	font-size: 50px;
 	line-height: 60px;
     color: #464444;
 }
@@ -85,5 +85,6 @@
 	font-size: 13px;
 	line-height: 20px;
 	text-align: right;
+	margin-right: 10%;
     color: rgb(156, 2, 2);
 }
