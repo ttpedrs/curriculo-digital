@@ -77,9 +77,10 @@
 }
 
 .main h1 {
-	font-size: 50px;
+	font-size: 40px;
 	line-height: 60px;
     color: #464444;
+	margin: 10px;
 }
 
 .main p {
